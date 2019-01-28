@@ -34,5 +34,5 @@ int enterSeatsNumber()
 		throw("error seats number!");
 
 	cout << "Program starts with " << seatsNumber << " seats: \n";
-	return seatsNmuber;
+	return seatsNumber;
 }

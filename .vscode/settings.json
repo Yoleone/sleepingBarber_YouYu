@@ -1,0 +1,17 @@
+{
+    "editor.formatOnSave": true,
+    "C_Cpp.clang_format_fallbackStyle": "WebKit",
+    "C_Cpp.configurationWarnings": "Disabled",
+    "cmake.configureOnOpen": true,
+    "cmake.debugConfig": {
+        "externalConsole": true
+    },
+    "files.associations": {
+        "thread": "cpp",
+        "random": "cpp",
+        "iostream": "cpp",
+        "chrono": "cpp",
+        "queue": "cpp",
+        "__mutex_base": "cpp"
+    }
+}

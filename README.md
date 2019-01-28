@@ -10,5 +10,5 @@ cd ./build/Debug
 ./sleepingBarber_YouYu
 
 
-Actually there is plenty of improvement space for my code. I didn't do elegantly in the oop. If the program needs to expand for
-two or more barbers, there might be heavy work for me.
+Actually there is plenty of improvement room for my code. I didn't do elegantly in the oop. If the program needs to expand for
+two or more barbers, it might be heavy work to me.

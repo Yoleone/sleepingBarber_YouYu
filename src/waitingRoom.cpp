@@ -5,7 +5,6 @@ void ThreadTest::Customer(int customerID)
 	Mutex.lock(); // lock on
 	if (remain <= 0) {
 		cout << "Customer " << customerID << " leaving\n";
-		this->~ThreadTest();
 	}
 	else {
 		waitingRoom.push_back(customerID);
@@ -35,4 +34,5 @@ int enterSeatsNumber()
 		throw("error seats number!");
 
 	cout << "Program starts with " << seatsNumber << " seats: \n";
+	return seatsNmuber;
 }
